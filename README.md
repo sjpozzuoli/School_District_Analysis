@@ -24,3 +24,7 @@
 
 ![Clean_School_bottom5](https://user-images.githubusercontent.com/81929616/118413758-e46df000-b66e-11eb-8f3c-b6a1a640784e.PNG)
 
+- When looking at the math and reading scores by grade per school, the only differences we see here is that in the 9th grade column for Thomas High School, the value of NaN is listed, which means "not a number". The reason for this is that these were removed earlier in the exercise. The first chart shows math scores, the second shows reading.
+
+![Math_scores_by_grade](https://user-images.githubusercontent.com/81929616/118413819-44649680-b66f-11eb-9f25-aedd78cdcf0f.PNG)   ![Reading_scores_by_grade](https://user-images.githubusercontent.com/81929616/118413824-4890b400-b66f-11eb-846c-dda57e77c72b.PNG)
+
