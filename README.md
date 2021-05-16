@@ -28,3 +28,12 @@
 
 ![Math_scores_by_grade](https://user-images.githubusercontent.com/81929616/118413819-44649680-b66f-11eb-9f25-aedd78cdcf0f.PNG)   ![Reading_scores_by_grade](https://user-images.githubusercontent.com/81929616/118413824-4890b400-b66f-11eb-846c-dda57e77c72b.PNG)
 
+- Once again, because the number of students that were removed from the analysis was so small compared to the entire district, the scores relative to per student spending, school size and school type all stayed pretty much exactly the same.
+
+![Scores_by_spending](https://user-images.githubusercontent.com/81929616/118413927-cf459100-b66f-11eb-9302-090c8554b649.PNG)
+![Scores_by_size](https://user-images.githubusercontent.com/81929616/118413937-d8cef900-b66f-11eb-9e4c-df0a07703607.PNG)   
+![Scores_by_type](https://user-images.githubusercontent.com/81929616/118413947-e1bfca80-b66f-11eb-8aa2-d8185a6724d9.PNG)
+
+## Summary
+
+#### In closing, we see that removing a single grade from one high school in the district does not have a large statistical bearing on the overall passing percentages in reading and math. Thomas High School's scores dropped by a very small amount after the scores were replaced and the other major statistics remained unchanged.
