@@ -10,8 +10,17 @@
 
 ![District_Summary_Clean](https://user-images.githubusercontent.com/81929616/118413223-29445780-b66c-11eb-8d51-60e74d65e586.PNG)
 
-- As you can see from the school summary data, Thomas High School suffered tremendously when the ninth grade test results were removed from the data. Their passing perecentages for each subject and overall went down by about 25% across the board. The first chart shows where the school metrics stood before removing the test scores. The second one shows where they stood afterwards. 
+- As you can see from the school summary data, Thomas High School did not really suffer when the ninth grade test results were removed from the data. Their passing perecentages for each subject and overall went down by about 0.3% across the board. The first chart shows where the school metrics stood before removing the test scores. The second one shows where they stood afterwards. 
 
 ![Thomas_HS_preclean](https://user-images.githubusercontent.com/81929616/118413470-7c6ada00-b66d-11eb-8340-01c3849df1fc.PNG)
 
-![Thomas_HS_clean](https://user-images.githubusercontent.com/81929616/118413439-55140d00-b66d-11eb-8fe6-862757c9033d.PNG)
+![Thomas_HS_clean](https://user-images.githubusercontent.com/81929616/118413653-6b6e9880-b66e-11eb-88c6-f9cdb41bab15.PNG)
+
+- When comparing the schools against each other, Thomas High School still ranked among the top 5 high schools in the entire school district both before and after the clearing of the ninth grade test scores.
+
+![Clean_School_top5](https://user-images.githubusercontent.com/81929616/118413733-c6a08b00-b66e-11eb-9cc4-16604b97566a.PNG)
+
+- The top 5 schools ranked well above the bottom 5 schools, as you can see from the statistics of the bottom schools.
+
+![Clean_School_bottom5](https://user-images.githubusercontent.com/81929616/118413758-e46df000-b66e-11eb-8f3c-b6a1a640784e.PNG)
+
