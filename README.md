@@ -1,6 +1,6 @@
 # PyCity School District Analysis
 
-### The purpose of this challenege was to analyze the school district information and inspect it for academic dishonesty. The ninth grade reading and math scores from Thomas High School appear to have been altered. In order to uphold state-testing standards, the school board has asked us remove those scores from the data while keeping the rest of it intact. From there, the school district analysis will be repeated to give a more accurate description of the reading and math scores in the school district.
+### The purpose of this challenege was to analyze the school district information and inspect it for academic dishonesty. The ninth grade math and reading scores from Thomas High School appear to have been altered. In order to uphold state-testing standards, the school board has asked us remove those scores from the data while keeping the rest of it intact. From there, the school district analysis will be repeated to give a more accurate description of the reading and math scores in the school district.
 
 ## Results
 
@@ -36,4 +36,4 @@
 
 ## Summary
 
-#### In closing, we see that removing a single grade from one high school in the district does not have a large statistical bearing on the overall passing percentages in reading and math. Thomas High School's scores dropped by a very small amount after the scores were replaced and the other major statistics remained unchanged.
+#### In closing, we see that removing a single grade from one high school in the district does not have a large statistical bearing on the overall passing percentages in math and reading. Thomas High School's scores dropped by a very small amount after the scores were replaced and the other major statistics remained unchanged.
